@@ -47,7 +47,7 @@ class GameDetailScreen extends StatelessWidget {
               // 1. LOGO SUPERIOR
               Center(
                 child: Image.asset(
-                  'imagenes/Cyberpunk_2077_logo.svg.webp',
+                  'assets/Cyberpunk-2077-Logo.png',
                   height: 220,
                   fit: BoxFit.cover,
                 ),
@@ -60,7 +60,7 @@ class GameDetailScreen extends StatelessWidget {
               ClipRRect(
                 borderRadius: BorderRadius.circular(12.0),
                 child: Image.asset(
-                  'imagenes/cyberpunk_parte.png',
+                  'assets/cyberpunk_parte.png',
                   height: 220,
                   width: double.infinity,
                   fit: BoxFit.cover,

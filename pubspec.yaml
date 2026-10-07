@@ -58,7 +58,7 @@ flutter:
   uses-material-design: true
 
   assets:
-    - assets/Cyberpunk_2077_logo.svg.webp/
+    - assets/Cyberpunk-2077-Logo.png/
     - assets/cyberpunk_parte.png/
   # To add assets to your application, add an assets section, like this:
   # assets:
